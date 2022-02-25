@@ -1,0 +1,14 @@
+@media (max-width: 375px) {
+  .container {
+    width: 300px;
+  }
+  .mainImage {
+    height: 150px;
+  }
+  .text {
+    width: 230px;
+  }
+  .proceed {
+    padding: 15px;
+  }
+}
